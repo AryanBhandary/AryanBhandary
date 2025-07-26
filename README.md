@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on my final year project
-- 🌱 I’m currently learning MERN stack
-- 👯 I’m looking to collaborate on frontend development
+My name is Aryan, and I'm an IT student at Islington College interested in Full-Stack Development! 
+
+- 🔭 I’m currently working on ExploreNepal, a travel planner for tourists.
+- 🌱 I’m currently learning MERN stack.
+- 👯 I’m looking to collaborate on Full-Stack development.
 
 <!--
 **AryanBhandary/AryanBhandary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
