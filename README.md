@@ -29,6 +29,3 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
 
 ---
-
-<!-- Subtle animation GIF just here -->
-![travel animation](https://media.giphy.com/media/l4pTfx2qLszoacZRS/giphy.gif)
