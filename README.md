@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on my final year project
+- 🌱 I’m currently learning MERN stack
+- 👯 I’m looking to collaborate on frontend development
+
 <!--
 **AryanBhandary/AryanBhandary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
