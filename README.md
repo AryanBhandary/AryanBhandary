@@ -66,3 +66,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-bhandary-57711b2b5/)
 
 ---
+
+![GitHub Snake](https://github.com/<your-username>/<your-username>/blob/output/github-contribution-grid-snake.svg)
+
+---
