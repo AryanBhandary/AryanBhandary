@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Aryan.;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
 
-Hi there! 👋 I'm Aryan.
-Welcome to my GitHub Profile!
 
 🚀 I'm an **IT student** at *Islington College* passionate about **Full-Stack Development**!
 
