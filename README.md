@@ -20,7 +20,7 @@
 ---
 
 ### 🔥 GitHub Stats  
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanbhandary&show_icons=true&theme=radical)
 
 ---
 
