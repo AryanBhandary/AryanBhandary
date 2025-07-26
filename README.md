@@ -6,19 +6,16 @@
 
 ### 🔭 Current Project  
 ✨ Building **ExploreNepal** — a smart travel planner for tourists!  
-![travel animation](https://media.giphy.com/media/l4pTfx2qLszoacZRS/giphy.gif)
 
 ---
 
 ### 🌱 Learning  
 🌱 Deep diving into the **MERN Stack** — MongoDB, Express, React & Node.js  
-![coding animation](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
 
 ---
 
 ### 👯 Collaboration  
 🤝 Open to collaborate on **Full-Stack projects** & cool tech ideas!  
-![handshake animation](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
 ---
 
@@ -28,5 +25,10 @@
 ---
 
 ### 📫 Find me here  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-bhandary-57711b2b5/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
+
+---
+
+<!-- Subtle animation GIF just here -->
+![travel animation](https://media.giphy.com/media/l4pTfx2qLszoacZRS/giphy.gif)
