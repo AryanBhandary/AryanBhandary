@@ -68,3 +68,6 @@
 ---
 
 
+![snake gif](https://github.com/aryanbhandary/aryanbhandary/blob/output/github-snake-dark.svg)
+
+
