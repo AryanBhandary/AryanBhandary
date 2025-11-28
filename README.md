@@ -8,7 +8,7 @@
 ---
 
 ### 🔭 Current Project  
-✨ Building **ExploreNepal** — a smart travel planner for tourists!  
+✨ Building **IslingConnect** — Final Year Project!  
 
 ---
 
@@ -18,7 +18,7 @@
 ---
 
 ### 👯 Collaboration  
-🤝 Open to collaborate on **Full-Stack projects** & cool tech ideas!  
+🤝 Open to collaborate on **Full-Stack projects**!  
 
 ---
 
