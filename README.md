@@ -22,10 +22,6 @@
 
 ---
 
-### ⌚️➡️ Future Project
-📚 Prototyping **LibraryHiest** — a smart library management system for readers as well as librarians!
-
----
 
 ## 🚀 Tech Stack
 
