@@ -8,10 +8,8 @@
 
 ### 🔭 Current Projects  
 ✨ **IslingConnect** — MERN full-stack Final Year Project  
-⚡ **Student Registration System** — Java + JSP + MySQL with image upload & validation  
 ⚡ **Vehicle Parts Inventory System** — Admin/Staff/Customer management  
 ⚡ **Travel Web App Backend** — Node.js + Express + Sequelize + MySQL  
-⚡ **IoT Smart Parking System** — Automated entry and slot management  
 
 ---
 
@@ -83,11 +81,9 @@
 ---
 
 ### 📊 GitHub Stats
-![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryanbhandary&show_icons=true&count_private=true&theme=radical&hide=prs)
-
+![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryanbhandary&show_icons=true&count_private=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanbhandary&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryanbhandary&theme=radical)
+![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=aryanbhandary&theme=react-dark&area=true)
 
 ---
 
