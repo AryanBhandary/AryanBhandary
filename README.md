@@ -1,27 +1,31 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Aryan.;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Hi+there!+%F0%9F%91%8B+I'm+Aryan.;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
 
-
-🚀 I'm an **IT student** at *Islington College* passionate about **Full-Stack Development**!
-
----
-
-### 🔭 Current Project  
-✨ Building **IslingConnect** — Final Year Project!  
+🚀 I'm an **IT student** at *Islington College* passionate about **Full-Stack Development, Data Analysis & Software Engineering**!
 
 ---
 
-### 🌱 Learning  
-🌱 Deep diving into the **MERN Stack** — MongoDB, Express, React & Node.js  
+### 🔭 Current Projects  
+✨ **IslingConnect** — MERN full-stack Final Year Project  
+⚡ **Student Registration System** — Java + JSP + MySQL with image upload & validation  
+⚡ **Vehicle Parts Inventory System** — Admin/Staff/Customer management  
+⚡ **Travel Web App Backend** — Node.js + Express + Sequelize + MySQL  
+⚡ **IoT Smart Parking System** — Automated entry and slot management  
+
+---
+
+### 🌱 Learning & Interests  
+🌱 Deep diving into **MERN Stack** (MongoDB, Express, React, Node.js)  
+🌱 Data Analysis & Visualization using Python (Pandas, NumPy, Matplotlib, Seaborn)  
+🌱 Software Engineering: ERD design, SQL, backend architecture, APIs, Git workflows  
 
 ---
 
 ### 👯 Collaboration  
-🤝 Open to collaborate on **Full-Stack projects**!  
+🤝 Open to collaborate on **Full-Stack, Data Analysis & IoT projects**  
 
 ---
-
 
 ## 🚀 Tech Stack
 
@@ -78,17 +82,18 @@
 
 ---
 
-### 🔥 GitHub Stats  
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanbhandary&show_icons=true&theme=radical)
+### 📊 GitHub Stats
+![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryanbhandary&show_icons=true&count_private=true&theme=radical&hide=prs)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanbhandary&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryanbhandary&theme=radical)
 
 ---
 
-### 📫 Find me here  
+### 📫 Connect with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-bhandary-57711b2b5/)
 
 ---
 
-
 ![snake gif](https://github.com/aryanbhandary/aryanbhandary/blob/output/github-snake-dark.svg)
-
-
