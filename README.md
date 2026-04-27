@@ -2,25 +2,34 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Hi+there!+%F0%9F%91%8B+I'm+Aryan.;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
 
-🚀 I'm an **IT student** at *Islington College* passionate about **Full-Stack Development, Data Analysis & Software Engineering**!
+🚀 I'm an **IT student** at *Islington College*  
+
+passionate about **Full-Stack Development, Data Analysis & Software Engineering**!
 
 ---
 
 ### 🔭 Current Projects  
+
 ✨ **IslingConnect** — MERN full-stack Final Year Project  
+
 ⚡ **Vehicle Parts Inventory System** — Admin/Staff/Customer management  
+
 ⚡ **Travel Web App Backend** — Node.js + Express + Sequelize + MySQL  
 
 ---
 
 ### 🌱 Learning & Interests  
+
 🌱 Deep diving into **MERN Stack** (MongoDB, Express, React, Node.js)  
+
 🌱 Data Analysis & Visualization using Python (Pandas, NumPy, Matplotlib, Seaborn)  
+
 🌱 Software Engineering: ERD design, SQL, backend architecture, APIs, Git workflows  
 
 ---
 
 ### 👯 Collaboration  
+
 🤝 Open to collaborate on **Full-Stack, Data Analysis & IoT projects**  
 
 ---
